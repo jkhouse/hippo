@@ -1,6 +1,3 @@
 # hippo :)
 
-hippo is hippo asdf
-
-
-asl;kdjflkjflkj
+hippo is hippo
