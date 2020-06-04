@@ -1,3 +1,3 @@
 # hippo :)
 
-hippo is hippo
+hippo is the hippo
